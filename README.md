@@ -1,7 +1,6 @@
 # mooc-2019-java-ohjelmointi
-Vuoden 2019 MOOC-ohjelmointikurssin tehtävät
-
-Kurssin kotisivu: https://ohjelmointi-19.mooc.fi/
+Vuoden 2019 MOOC-ohjelmointikurssin tehtävät. Kurssin kotisivu: https://ohjelmointi-19.mooc.fi/
+<br>
 
 ## osa12-Osa12_13.Ristinolla<br>
 ![ristinolla](https://user-images.githubusercontent.com/47091369/139944062-f8dc6bef-d34f-47ef-83ce-7729a3d2d2fa.gif)
